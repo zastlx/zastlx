@@ -3,10 +3,10 @@
 - 👀 Current Projects:
   - [Nebulet](https://nebulet.zastix.club/) (inaccessable) - The 2nd best Blooket private server.
   
-- 🌱 Languages I use:
+- 🌱 Languages I know:
   - Javascript,
-  - HTML/CSS,
-  - C++ (some),
+  - C++,
+  - Some Rust,
   - C#,
   - Python
   
