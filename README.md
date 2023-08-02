@@ -1,7 +1,7 @@
 ## I’m zastix 👋
 
 - 👀 Current Projects:
-  - [Blacket](https://blacket.org/) - A blooket private server
+  - [Nebulet](https://nebulet.zastix.club/) (inaccessable) - The 2nd best Blooket private server.
   
 - 🌱 Languages I use:
   - Javascript,
@@ -11,11 +11,11 @@
   - Python
   
 - 📫 How to reach me:
-  - Discord: zastix#0001
+  - Discord: @notzastix
   - Gmail: [zastix](https://mail.google.com/mail/?view=cm&fs=1&to=zastix@zastix.club&su=Contact%20Me)
 
 - 👥 Friends:
-  - [PenguinPowers](https://github.com/penguinblook/)
-  - [XOTIC](https://github.com/xotlc)
-  - acai
-  - [monkxy](https://github.com/monkxy)
+  - [penguinpowers](https://github.com/penguinblook)
+  - [Xotic](https://github.com/xotlc)
+  - [acai](https://github.com/probablyacai)
+  - [deaf](https://github.com/VillainsRule)
