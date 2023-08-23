@@ -12,10 +12,14 @@
   
 - 📫 How to reach me:
   - Discord: @notzastix
-  - Gmail: [zastix](https://mail.google.com/mail/?view=cm&fs=1&to=zastix@zastix.club&su=Contact%20Me)
+  - Email: [zastix](https://mail.google.com/mail/?view=cm&fs=1&to=zastix@zastix.club&su=Contact%20Me)
 
 - 👥 Friends:
   - [penguinpowers](https://github.com/penguinblook)
   - [Xotic](https://github.com/xotlc)
   - [acai](https://github.com/probablyacai)
   - [deaf](https://github.com/VillainsRule)
+  - [alicia](https://github.com/notalicialol)
+  - [pablo](https://github.com/pablmao)
+  - [tremblero](https://github.com/tremblero)
+  - [jod](https://github.com/KcMllereA)
