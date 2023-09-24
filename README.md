@@ -1,8 +1,8 @@
 ## I’m zastix 👋
 
 - 👀 Current Projects:
-  - [Nebulet](https://nebulet.zastix.club/) (inaccessable) - One of the best Blooket private servers.
-  - [BPP](https://github.com/zastlx/BPP) (inaccessable) - A client mod for blacket.org.
+  - [Nebulet](https://nebulet.zastix.club/) (inaccessible) - One of the best Blooket private servers.
+  - [BPP](https://github.com/zastlx/BPP) (inaccessible) - A client mod for blacket.org.
 
 - 🌱 Languages I know:
   - Javascript,
@@ -18,9 +18,8 @@
 - 👥 Friends:
   - [deaf <3](https://github.com/VillainsRule)
   - [acai](https://github.com/probablyacai)
-  - [Xotic](https://github.com/xotlc)
+  - [Xotic <3](https://github.com/xotlc)
   - [penguinpowers](https://github.com/penguinblook)
-  - [alicia](https://github.com/notalicialol)
   - [tremblero](https://github.com/tremblero)
   - [jod](https://github.com/KcMllereA)
   - [pablo](https://github.com/pablmao)
