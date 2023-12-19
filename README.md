@@ -1,25 +1,19 @@
-## I’m zastix 👋
+<h1>zastix</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=fullstack+web+developer;horrible+reverse+engineer;typescript+enthusiast" alt="Typing SVG" /></a>
 
-- 👀 Current Projects:
-  - [Nebulet](https://nebulet.zastix.club/) (inaccessible) - One of the best Blooket private servers.
-  - [BPP](https://github.com/zastlx/BPP) (inaccessible) - A client mod for blacket.org.
+### About me
 
-- 🌱 Languages I know:
-  - Javascript,
-  - C++,
-  - Some Rust,
-  - C#,
-  - Python
+- 🌟 I like reverse engineering, mostly websites, and sometimes anything I can get my hands on.
   
-- 📫 How to reach me:
-  - Discord: @notzastix
-  - Email: [zastix](https://mail.google.com/mail/?view=cm&fs=1&to=zastix@zastix.club&su=Contact%20Me)
+- 🚀 I'm a full-stack web developer; I enjoy both frontend and backend work.
+  
+- 🎮 I enjoy playing games like [Genshin Impact](https://genshin.hoyoverse.com/) and [Honkar: Star Rail](https://hsr.hoyoverse.com/), and maybe some [OSU](https://osu.ppy.sh/home) and [Geometry Dash](https://www.robtopgames.com/) on the side.
+  
+- 🏳️‍⚧️ I'm transgender and use <b>she/her</b> pronouns.
+<br/>
 
-- 👥 Friends:
-  - [deaf <3](https://github.com/VillainsRule)
-  - [acai](https://github.com/probablyacai)
-  - [Xotic <3](https://github.com/xotlc)
-  - [penguinpowers](https://github.com/penguinblook)
-  - [tremblero](https://github.com/tremblero)
-  - [jod](https://github.com/KcMllereA)
-  - [pablo](https://github.com/pablmao)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zastlx&theme=midnight-purple" alt="Top Langs">
+
+<a href="https://discord.com/users/253302259696271360">
+  <img src="https://api.zastix.club/api/253302259696271360?idleMessage=probably%20sleeping&username=zastix" alt="Discord Presence">
+</a>
