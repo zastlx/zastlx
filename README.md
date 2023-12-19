@@ -10,6 +10,17 @@
 - 🎮 I enjoy playing games like [Genshin Impact](https://genshin.hoyoverse.com/) and [Honkar: Star Rail](https://hsr.hoyoverse.com/), and maybe some [OSU](https://osu.ppy.sh/home) and [Geometry Dash](https://www.robtopgames.com/) on the side.
   
 - 🏳️‍⚧️ I'm transgender and use <b>she/her</b> pronouns.
+
+<!--
+  just bcuz ur not listed here does not mean your not my friend, i just put my closest friends
+  also not in any order
+-->
+### My Friends 
+- [XOTlC](https://github.com/XOTlC)
+- [monkxy](https://github.com/monkxy)
+- [acai](https://github.com/probablyacai)
+- [Syfe](https://github.com/ItsSyfe)
+- [thonk](https://github.com/VillainsRule)
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zastlx&theme=midnight-purple" alt="Top Langs">
