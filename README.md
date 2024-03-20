@@ -26,5 +26,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zastlx&theme=midnight-purple" alt="Top Langs">
 
 <a href="https://discord.com/users/253302259696271360">
-  <img src="https://api.zastix.club/api/253302259696271360?idleMessage=probably%20sleeping&username=zastix&b" alt="Discord Presence">
+  <img src="https://api.zastix.club/api/253302259696271360?idleMessage=probably%20sleeping&username=zastix&c" alt="Discord Presence">
 </a>
