@@ -3,7 +3,7 @@
 
 ### About me
 
-- 🌟 I like reverse engineering, mostly websites, and sometimes anything I can get my hands on.
+- 🌟 I like reverse engineering and poking at anything I can get my hands on.
   
 - 🚀 I'm a full-stack web developer; I enjoy both frontend and backend work.
   
