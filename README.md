@@ -18,6 +18,8 @@
 ### My Friends 
 - [XOTlC](https://github.com/XOTlC)
 - [monkxy](https://github.com/monkxy)
+- [pablo](https://github.com/Pablmao)
+- [Piotr](https://github.com/PiootrA)
 - [acai](https://github.com/probablyacai)
 - [Syfe](https://github.com/ItsSyfe)
 - [thonk](https://github.com/VillainsRule)
