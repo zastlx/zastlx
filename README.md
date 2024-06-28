@@ -16,13 +16,13 @@
   also not in any order
 -->
 ### My Friends 
-- [XOTlC](https://github.com/XOTlC)
 - [monkxy](https://github.com/monkxy)
 - [pablo](https://github.com/Pablmao)
 - [Syfe](https://github.com/ItsSyfe)
 - [thonk](https://github.com/VillainsRule)
 - [acai](https://github.com/probablyacai)
 - [Piotr](https://github.com/PiootrA)
+- [XOTlC](https://github.com/XOTlC)
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zastlx&theme=midnight-purple" alt="Top Langs">
