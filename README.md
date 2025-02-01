@@ -20,7 +20,6 @@
 - [pablo](https://github.com/Pablmao)
 - [allie](https://github.com/probablyacai)
 - [Syfe](https://github.com/ItsSyfe)
-- [monkxy](https://github.com/monkxy)
 - [Piotr](https://github.com/PiootrA)
 <br/>
 
