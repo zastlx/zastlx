@@ -18,7 +18,7 @@
 ### My Friends 
 - [XOTlC](https://github.com/XOTlC)
 - [pablo](https://github.com/Pablmao)
-- [allie](https://github.com/probablyacai)
+- [allie](https://github.com/microcrit)
 - [Syfe](https://github.com/ItsSyfe)
 - [Piotr](https://github.com/PiootrA)
 <br/>
