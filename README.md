@@ -12,7 +12,6 @@ The main languages I use are Typescript, C++ & Java but I have experience in a f
 - [XOTlC](https://github.com/XOTlC)
 - [allie](https://github.com/microcrit)
 - [Syfe](https://github.com/ItsSyfe)
-- [pablo](https://github.com/Pablmao)
 - [Piotr](https://github.com/PiootrA)
 <br/>
 
