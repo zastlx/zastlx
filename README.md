@@ -2,19 +2,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=fullstack+web+developer;horrible+reverse+engineer;typescript+enthusiast" alt="Typing SVG" /></a>
 
 ### About me
+I'm zastix a highschool student and a self taught software developer. 
 
-- 🌟 I like reverse engineering and poking at anything I can get my hands on.
-  
-- 🚀 I'm a full-stack web developer; I enjoy both frontend and backend work.
-  
-- 🎮 I enjoy playing games like [Genshin Impact](https://genshin.hoyoverse.com/) and [Honkar: Star Rail](https://hsr.hoyoverse.com/), and maybe some [OSU](https://osu.ppy.sh/home) and [Geometry Dash](https://www.robtopgames.com/) on the side.
-  
-- 🏳️‍⚧️ I'm transgender and use <b>she/her</b> pronouns.
+I like reverse engineering, specifically modding games and websites.
 
-<!--
-  just bcuz ur not listed here does not mean your not my friend, i just put my closest friends
-  also not in any order
--->
+The main languages I use are Typescript, C++ & Java but I have experience in a few others.
+
 ### My Friends 
 - [XOTlC](https://github.com/XOTlC)
 - [allie](https://github.com/microcrit)
@@ -25,8 +18,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zastlx&theme=midnight-purple" alt="Top Langs">
 
-<!--
-<a href="https://discord.com/users/253302259696271360">
-  <img src="https://api.zastix.club/api/253302259696271360?idleMessage=probably%20sleeping&username=zastix&c" alt="Discord Presence">
-</a>
---->
+
+I use arch btw
