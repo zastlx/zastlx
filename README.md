@@ -8,13 +8,6 @@ I like reverse engineering, specifically modding games and websites.
 
 The main languages I use are Typescript, C++ & Java but I have experience in a few others.
 
-### My Friends 
-- [XOTlC](https://github.com/XOTlC)
-- [allie](https://github.com/microcrit)
-- [Syfe](https://github.com/ItsSyfe)
-- [Piotr](https://github.com/PiootrA)
-<br/>
-
 <img src="https://github-readme-stats-taupe-seven-79.vercel.app/api/top-langs/?username=zastlx&theme=midnight-purple&hide=webassembly&langs_count=6&exclude_repo=nebulet,betastar.js" alt="Top Langs">
 
 
