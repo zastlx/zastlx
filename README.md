@@ -8,7 +8,7 @@ I like reverse engineering, specifically modding games and websites.
 
 The main languages I use are Typescript, C++ & Java but I have experience in a few others.
 
-<img src="https://github-readme-stats-taupe-seven-79.vercel.app/api/top-langs/?username=VillainsRulke&hide=webassembly&theme=midnight-purple&langs_count=6&exclude_repo=nebulet,betastar.js" alt="Top Langs">
+<img src="https://github-readme-stats-taupe-seven-79.vercel.app/api/top-langs/?username=zastlx&hide=webassembly&theme=midnight-purple&langs_count=6&exclude_repo=nebulet,betastar.js" alt="Top Langs">
 
 
 I use arch btw
