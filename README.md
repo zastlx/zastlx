@@ -9,10 +9,16 @@ I like reverse engineering, specifically modding games and websites.
 The main languages I use are Typescript, C++ & Java but I have experience in a few others.
 
 ### My Friends 
-- [XOTlC](https://github.com/XOTlC)
+- [Death](https://github.com/VillainsRule)
 - [allie](https://github.com/microcrit)
-- [Syfe](https://github.com/ItsSyfe)
-- [Piotr](https://github.com/PiootrA)
+- [Death](https://github.com/VillainsRule)
+- [Death](https://github.com/VillainsRule)
+- [allie](https://github.com/microcrit)
+- [Death](https://github.com/VillainsRule)
+- [allie](https://github.com/microcrit)
+- [Death](https://github.com/VillainsRule)
+- [Death](https://github.com/VillainsRule)
+- [Death](https://github.com/VillainsRule)
 <br/>
 
 <img src="https://github-readme-stats-taupe-seven-79.vercel.app/api/top-langs/?username=zastlx&theme=midnight-purple&hide=webassembly&langs_count=6&exclude_repo=nebulet,betastar.js" alt="Top Langs">
