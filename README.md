@@ -1,5 +1,5 @@
 <h1>zastix</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/demo/?font=JetBrains+Mono&color=F776F0&lines=fullstack+web+developer;%22horrible%22+reverse+engineer;typescript+enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F776F0&width=435&lines=fullstack+web+developer;%22horrible%22+reverse+engineer;typescript+enthusiast" alt="Typing SVG" /></a>
 
 ### About me
 I'm zastix a highschool student and a self taught software developer. 
