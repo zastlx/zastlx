@@ -15,7 +15,7 @@ The main languages I use are Typescript, C++ & Java but I have experience in a f
 - [Piotr](https://github.com/PiootrA)
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zastlx&theme=midnight-purple&a" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zastlx&theme=midnight-purple&hide=webassembly&langs_count=6" alt="Top Langs">
 
 
 I use arch btw
